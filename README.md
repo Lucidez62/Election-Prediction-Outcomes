@@ -15,6 +15,9 @@
 </div>
 
 ---
+## 🚀 Live Dashboard
+
+[![View App](https://img.shields.io/badge/Streamlit-Live%20App-brightgreen?style=for-the-badge&logo=streamlit)](https://election-prediction-outcomes.streamlit.app/)
 
 ## 🎯 Project Overview
 
